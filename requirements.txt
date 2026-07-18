@@ -5,3 +5,6 @@ chromedriver-autoinstaller==0.6.4
 selenium-wire==5.1.0
 blinker==1.7.0
 brotlipy==0.7.0
+pyOpenSSL==24.2.1
+cryptography<44
+setuptools<81
